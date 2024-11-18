@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "CPANEL",
+    "price": "5.000",
+    "image": "cpanel.png",
+    "description": "Cpanel List \n \nMini :5k \nMedium :10k"
+  },
+  {
+    "id": 2,
+    "name": "DOMAIN",
+    "price": "20.000",
+    "image": "domain.png",
+    "description": "Domain List \n\nMyid/Bizid :20k \nOnline :25k \nXyz :30k \nCloud :45k"
+  }
+]
